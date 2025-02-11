@@ -6,4 +6,3 @@ Este é um projeto simples de **Amigo Secreto**, desenvolvido com o intuito de g
 
 - Geração aleatória de pares de amigos secretos.
 - Evita que uma pessoa tire seu próprio nome.
-- Suporta o envio de e-mails (opcional) para notificar os participantes sobre seus respectivos amigos secretos.
